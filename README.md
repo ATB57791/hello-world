@@ -1,2 +1,2 @@
 # hello-world
-Hei maailma!
+SMOOTHIE on NAM-NAM
